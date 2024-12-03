@@ -4,3 +4,5 @@ node_modules/
 
 # ignore package.json
 package.json
+
+.DS_Store
